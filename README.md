@@ -1,5 +1,3 @@
-# Hand_Gesture_Detection
-Real-time hand gesture detection using Python, OpenCV, and MediaPipe. Track and recognize hand gestures from webcam input with high accuracy for interactive applications and gesture-controlled systems.
 ## ⭕ **Sign Language Detection with Hand Landmarks** ⛳🔥
 
 This repository provides a method for recognizing sign language gestures using **hand landmarks** provided by the **MediaPipe library**. The **hand landmarks** are used to detect the relative positioning of the fingers in 3D space, which allows for gesture recognition. 
@@ -302,5 +300,4 @@ if lm_list[8].y < lm_list[6].y < lm_list[5].y and \
 ```
 
 ---
-
 
